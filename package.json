@@ -1,0 +1,22 @@
+{
+  "name": "grpc-proto-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hcfw007/grpc-proto-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hcfw007/grpc-proto-demo/issues"
+  },
+  "homepage": "https://github.com/hcfw007/grpc-proto-demo#readme",
+  "dependencies": {
+    "grpc": "^1.24.11"
+  }
+}
