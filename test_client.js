@@ -10,7 +10,7 @@ const request = new messages.UserRequest();
 request.setUserid(1);
 client.getUser(request, function(err, response) {
   if (!err) {
-    console.log(response.getMessage());
+    console.log(response.getName());
   } else {
     console.debug(err)
   }
