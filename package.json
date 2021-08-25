@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/hcfw007/grpc-proto-demo#readme",
   "dependencies": {
+    "@grpc/proto-loader": "^0.6.4",
     "grpc": "^1.24.11"
   }
 }
